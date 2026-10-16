@@ -1,0 +1,326 @@
+[
+  {
+    "file": "2019_rolnick_tackling-climate-change-with-machine-learning.pdf",
+    "category": "climate",
+    "path": "climate/2019_rolnick_tackling-climate-change-with-machine-learning.pdf",
+    "arxiv_id": "1906.05433",
+    "title": "Introduction",
+    "authors": [
+      "Rolnick"
+    ],
+    "year": 2019,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2020_rasp_weatherbench-a-benchmark-dataset-for-datadriven.pdf",
+    "category": "climate",
+    "path": "climate/2020_rasp_weatherbench-a-benchmark-dataset-for-datadriven.pdf",
+    "arxiv_id": "2002.00469",
+    "title": "arXiv:2002.00469v3 [physics.ao-ph] 11 Jun 2020",
+    "authors": [
+      "Rasp"
+    ],
+    "year": 2020,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2021_webersinke_climatebert-a-pretrained-language-model-for.pdf",
+    "category": "climate",
+    "path": "climate/2021_webersinke_climatebert-a-pretrained-language-model-for.pdf",
+    "arxiv_id": "2110.12010",
+    "title": "arXiv:2110.12010v3 [cs.CL] 17 Dec 2022",
+    "authors": [
+      "Webersinke"
+    ],
+    "year": 2021,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2022_bi_panguweather-a-3d-highresolution-model-for.pdf",
+    "category": "climate",
+    "path": "climate/2022_bi_panguweather-a-3d-highresolution-model-for.pdf",
+    "arxiv_id": "2211.02556",
+    "title": "Pangu-Weather: A 3D High-Resolution System for Fast and Accurate Global Weather Forecast",
+    "authors": [
+      "Bi"
+    ],
+    "year": 2022,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2022_lam_graphcast-learning-skillful-mediumrange-global-weather.pdf",
+    "category": "climate",
+    "path": "climate/2022_lam_graphcast-learning-skillful-mediumrange-global-weather.pdf",
+    "arxiv_id": "2212.12794",
+    "title": "GraphCast: Learning skillful medium-range global weather forecasting",
+    "authors": [
+      "Lam"
+    ],
+    "year": 2022,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2022_pathak_fourcastnet-a-global-datadriven-highresolution-weather.pdf",
+    "category": "climate",
+    "path": "climate/2022_pathak_fourcastnet-a-global-datadriven-highresolution-weather.pdf",
+    "arxiv_id": "2202.11214",
+    "title": "arXiv:2202.11214v1 [physics.ao-ph] 22 Feb 2022",
+    "authors": [
+      "Pathak"
+    ],
+    "year": 2022,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2023_kochkov_neural-general-circulation-models-for-weather.pdf",
+    "category": "climate",
+    "path": "climate/2023_kochkov_neural-general-circulation-models-for-weather.pdf",
+    "arxiv_id": "2311.07222",
+    "title": "arXiv:2311.07222v3 [physics.ao-ph] 8 Mar 2024",
+    "authors": [
+      "Kochkov"
+    ],
+    "year": 2023,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2023_nguyen_climax-a-foundation-model-for-weather.pdf",
+    "category": "climate",
+    "path": "climate/2023_nguyen_climax-a-foundation-model-for-weather.pdf",
+    "arxiv_id": "2301.10343",
+    "title": "ClimaX: foundation model for weather and climate",
+    "authors": [
+      "Nguyen"
+    ],
+    "year": 2023,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2024_bodnar_a-foundation-model-for-the-earth.pdf",
+    "category": "climate",
+    "path": "climate/2024_bodnar_a-foundation-model-for-the-earth.pdf",
+    "arxiv_id": "2405.13063",
+    "title": "arXiv:2405.13063v3 [physics.ao-ph] 21 Nov 2024",
+    "authors": [
+      "Bodnar"
+    ],
+    "year": 2024,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2015_ronneberger_unet-convolutional-networks-for-biomedical-image.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2015_ronneberger_unet-convolutional-networks-for-biomedical-image.pdf",
+    "arxiv_id": "1505.04597",
+    "title": "arXiv:1505.04597v1 [cs.CV] 18 May 2015",
+    "authors": [
+      "Ronneberger"
+    ],
+    "year": 2015,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2016_milletari_vnet-fully-convolutional-neural-networks-for.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2016_milletari_vnet-fully-convolutional-neural-networks-for.pdf",
+    "arxiv_id": "1606.04797",
+    "title": "arXiv:1606.04797v1 [cs.CV] 15 Jun 2016",
+    "authors": [
+      "Milletari"
+    ],
+    "year": 2016,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2017_rajpurkar_chexnet-radiologistlevel-pneumonia-detection-on-chest.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2017_rajpurkar_chexnet-radiologistlevel-pneumonia-detection-on-chest.pdf",
+    "arxiv_id": "1711.05225",
+    "title": "arXiv:1711.05225v3 [cs.CV] 25 Dec 2017",
+    "authors": [
+      "Rajpurkar"
+    ],
+    "year": 2017,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2018_isensee_nnunet-selfadapting-framework-for-unetbased-medical.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2018_isensee_nnunet-selfadapting-framework-for-unetbased-medical.pdf",
+    "arxiv_id": "1809.10486",
+    "title": "arXiv:1809.10486v1 [cs.CV] 27 Sep 2018",
+    "authors": [
+      "Isensee"
+    ],
+    "year": 2018,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2018_oktay_attention-unet-learning-where-to-look.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2018_oktay_attention-unet-learning-where-to-look.pdf",
+    "arxiv_id": "1804.03999",
+    "title": "arXiv:1804.03999v3 [cs.CV] 20 May 2018",
+    "authors": [
+      "Oktay"
+    ],
+    "year": 2018,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2018_zhou_unet-a-nested-unet-architecture-for.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2018_zhou_unet-a-nested-unet-architecture-for.pdf",
+    "arxiv_id": "1807.10165",
+    "title": "arXiv:1807.10165v1 [cs.CV] 18 Jul 2018",
+    "authors": [
+      "Zhou"
+    ],
+    "year": 2018,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2021_chen_transunet-transformers-make-strong-encoders-for.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2021_chen_transunet-transformers-make-strong-encoders-for.pdf",
+    "arxiv_id": "2102.04306",
+    "title": "arXiv:2102.04306v1 [cs.CV] 8 Feb 2021",
+    "authors": [
+      "Chen"
+    ],
+    "year": 2021,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2022_hatamizadeh_swin-unetr-swin-transformers-for-semantic.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2022_hatamizadeh_swin-unetr-swin-transformers-for-semantic.pdf",
+    "arxiv_id": "2201.01266",
+    "title": "arXiv:2201.01266v1 [eess.IV] 4 Jan 2022",
+    "authors": [
+      "Hatamizadeh"
+    ],
+    "year": 2022,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2023_ma_segment-anything-in-medical-images.pdf",
+    "category": "medical_imaging",
+    "path": "medical_imaging/2023_ma_segment-anything-in-medical-images.pdf",
+    "arxiv_id": "2304.12306",
+    "title": "arXiv:2304.12306v3 [eess.IV] 1 Apr 2024",
+    "authors": [
+      "Ma"
+    ],
+    "year": 2023,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2017_vaswani_attention-is-all-you-need.pdf",
+    "category": "nlp",
+    "path": "nlp/2017_vaswani_attention-is-all-you-need.pdf",
+    "arxiv_id": "1706.03762",
+    "title": "arXiv:1706.03762v7 [cs.CL] 2 Aug 2023",
+    "authors": [
+      "Vaswani"
+    ],
+    "year": 2017,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2018_devlin_bert-pretraining-of-deep-bidirectional-transformers.pdf",
+    "category": "nlp",
+    "path": "nlp/2018_devlin_bert-pretraining-of-deep-bidirectional-transformers.pdf",
+    "arxiv_id": "1810.04805",
+    "title": "arXiv:1810.04805v2 [cs.CL] 24 May 2019",
+    "authors": [
+      "Devlin"
+    ],
+    "year": 2018,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2019_liu_roberta-a-robustly-optimized-bert-pretraining.pdf",
+    "category": "nlp",
+    "path": "nlp/2019_liu_roberta-a-robustly-optimized-bert-pretraining.pdf",
+    "arxiv_id": "1907.11692",
+    "title": "arXiv:1907.11692v1 [cs.CL] 26 Jul 2019",
+    "authors": [
+      "Liu"
+    ],
+    "year": 2019,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2019_raffel_exploring-the-limits-of-transfer-learning.pdf",
+    "category": "nlp",
+    "path": "nlp/2019_raffel_exploring-the-limits-of-transfer-learning.pdf",
+    "arxiv_id": "1910.10683",
+    "title": "arXiv:1910.10683v4 [cs.LG] 19 Sep 2023",
+    "authors": [
+      "Raffel"
+    ],
+    "year": 2019,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2019_reimers_sentencebert-sentence-embeddings-using-siamese-bertnetworks.pdf",
+    "category": "nlp",
+    "path": "nlp/2019_reimers_sentencebert-sentence-embeddings-using-siamese-bertnetworks.pdf",
+    "arxiv_id": "1908.10084",
+    "title": "arXiv:1908.10084v1 [cs.CL] 27 Aug 2019",
+    "authors": [
+      "Reimers"
+    ],
+    "year": 2019,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2019_sanh_distilbert-a-distilled-version-of-bert.pdf",
+    "category": "nlp",
+    "path": "nlp/2019_sanh_distilbert-a-distilled-version-of-bert.pdf",
+    "arxiv_id": "1910.01108",
+    "title": "arXiv:1910.01108v4 [cs.CL] 1 Mar 2020",
+    "authors": [
+      "Sanh"
+    ],
+    "year": 2019,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2020_brown_language-models-are-fewshot-learners.pdf",
+    "category": "nlp",
+    "path": "nlp/2020_brown_language-models-are-fewshot-learners.pdf",
+    "arxiv_id": "2005.14165",
+    "title": "arXiv:2005.14165v4 [cs.CL] 22 Jul 2020",
+    "authors": [
+      "Brown"
+    ],
+    "year": 2020,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2020_lewis_retrievalaugmented-generation-for-knowledgeintensive-nlp-tasks.pdf",
+    "category": "nlp",
+    "path": "nlp/2020_lewis_retrievalaugmented-generation-for-knowledgeintensive-nlp-tasks.pdf",
+    "arxiv_id": "2005.11401",
+    "title": "arXiv:2005.11401v4 [cs.CL] 12 Apr 2021",
+    "authors": [
+      "Lewis"
+    ],
+    "year": 2020,
+    "source": "local_pdf"
+  },
+  {
+    "file": "2021_hu_lora-lowrank-adaptation-of-large-language.pdf",
+    "category": "nlp",
+    "path": "nlp/2021_hu_lora-lowrank-adaptation-of-large-language.pdf",
+    "arxiv_id": "2106.09685",
+    "title": "arXiv:2106.09685v2 [cs.CL] 16 Oct 2021",
+    "authors": [
+      "Hu"
+    ],
+    "year": 2021,
+    "source": "local_pdf"
+  }
+]
