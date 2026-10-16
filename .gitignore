@@ -3,3 +3,5 @@ venv/
 vector_db/
 __pycache__/
 *.pyc
+# Papers are downloaded by download_papers.py, not stored in git
+papers/**/*.pdf
